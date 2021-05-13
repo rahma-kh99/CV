@@ -30,8 +30,8 @@ li ,p{
 
 img {
 	
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 	
 	padding-top: 5px;
 	padding-bottom:40px;
@@ -46,7 +46,7 @@ img {
 	display: inline;
 }
 .resume{
-	width: 800px;
+	width: 600px;
 	background: #fff;
 	margin: 25px auto;
 	display: flex;
