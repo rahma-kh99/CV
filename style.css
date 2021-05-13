@@ -1,0 +1,135 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100&family=Playfair+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100&family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+h1{
+font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	text-align: center;
+	margin-top:20px;
+	padding-top: 10px;
+	;
+
+}
+
+h3,h4{
+font-family: 'Libre Baskerville', serif;
+letter-spacing: 4px;
+font-size: 17px;
+}
+
+
+li ,p{
+	list-style: none;
+	font-family: 'El Messiri', sans-serif;
+	letter-spacing: 2px;
+	line-height: 25px;
+	font-size: 15px;
+}
+
+
+img {
+	
+	width: 200px;
+	height: 200px;
+	
+	padding-top: 5px;
+	padding-bottom:40px;
+
+}
+
+.yellow {
+	color: yellow;
+}
+
+.inline{
+	display: inline;
+}
+.resume{
+	width: 600px;
+	background: #fff;
+	margin: 25px auto;
+	display: flex;
+}
+
+.left{
+	background: #292b2f;
+	width: 300px;
+	padding:20px;
+	
+}
+
+.right{
+	width: calc(100% - 300px);
+
+}
+
+.inline{
+	display: inline-block;
+}
+
+
+
+.top{
+	background-color:purple;
+}
+
+.back{
+	background:purple ;
+	padding: 5px 5px 5px 5px ;
+	border-radius: 10px;
+	
+}
+
+
+.blanc{
+	color:white;
+}
+.center{
+	text-align: center;
+}
+
+.margin{
+	margin-left: 50px;
+	
+
+}
+.margin2{
+	margin-left: 20px;
+}
+
+
+.color{
+	color:purple ;
+}
+
+.border{
+	border-left: solid 2px purple;
+}
+
+	.contact {
+		color: black;
+		background: white;
+		
+	}
+
+.M{
+	margin-top: 50px;
+}
+.img {
+	width: 50px;
+	height: 50px;
+}
+
+.R{
+	background: purple;
+	color: white;
+	padding: 5px 5px 5px 5px ;
+	border-radius: 10px;
+	width: 60%;
+}
+.width{
+	width: 60%;
+}
+
